@@ -1,0 +1,32 @@
+.card {
+  width: 600px;
+  padding: 10px;
+  background-color: rgb(121, 160, 245);
+  border-radius: 10px;
+}
+
+.form-title {
+  color: #eee;
+}
+
+.form-text {
+  color: #eee;
+}
+
+input {
+ width: 95%;
+ height: 30px;
+ padding: 5px;
+ margin: 10px;
+ background-color: rgb(240, 238, 238);
+ border: 1px solid #eee;
+ border-radius: 5px;
+}
+
+.btn-submit {
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  border: 1px solid #eee;
+  outline: none;
+}
